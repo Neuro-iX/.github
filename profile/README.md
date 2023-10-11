@@ -5,5 +5,7 @@ to analyse brain imaging and behavioral data for the study of mental disorders i
 brain injury and chronic traumatic encephalopathy.
 
 ## Quick Links
-- :computer: [Website](https://neuro-ix.github.io/)
+- :globe_with_meridians: [Website](https://neuro-ix.github.io/)
 - 🌱 [Tutorials](https://github.com/Neuro-iX/Tutorials)
+- :framed_picture: [Cheat sheets](https://github.com/Neuro-iX/Cheatsheets)
+- :white_check_mark: [Quizzes](https://github.com/Neuro-iX/Quizzes)
